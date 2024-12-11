@@ -15,6 +15,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MOHAMMED-SAMEE/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MOHAMMED-SAMEE/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/MOHAMMED-SAMEE/leetcode-problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Binary Search
 |  |
@@ -32,4 +33,9 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MOHAMMED-SAMEE/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MOHAMMED-SAMEE/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MOHAMMED-SAMEE/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
