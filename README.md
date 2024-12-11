@@ -14,6 +14,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MOHAMMED-SAMEE/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/MOHAMMED-SAMEE/leetcode-problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Binary Search
 |  |
@@ -27,4 +28,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/MOHAMMED-SAMEE/leetcode-problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MOHAMMED-SAMEE/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
